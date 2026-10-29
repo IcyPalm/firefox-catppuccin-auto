@@ -8,6 +8,8 @@ time through Firefox Color, so it can't switch with the OS. This theme uses the
 [`dark_theme`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/dark_theme)
 manifest key instead: Firefox picks the light or dark variant itself. No extra add-on or script needed.
 
+**[Download the signed .xpi from the latest release](https://github.com/IcyPalm/firefox-catppuccin-auto/releases/latest)** and open it in Firefox.
+
 ## Requirements
 
 - Firefox 142 or later
